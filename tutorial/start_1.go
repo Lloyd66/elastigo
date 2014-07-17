@@ -14,8 +14,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/mattbaird/elastigo/api"
-	"github.com/mattbaird/elastigo/core"
+	"github.com/LLoyd66/elastigo/api"
+	"github.com/LLoyd66/elastigo/core"
 	"log"
 	"os"
 )
